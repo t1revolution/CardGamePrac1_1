@@ -15,3 +15,6 @@ public class DropArea : MonoBehaviour, IDropHandler
         }
     }
 }
+
+// developブランチのファイルの内容を変更してpushするとmasterのファイルには
+// 影響が及ばないことを確認する
