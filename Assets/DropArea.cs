@@ -23,3 +23,4 @@ public class DropArea : MonoBehaviour, IDropHandler
 
     // version1
 
+    // version2
