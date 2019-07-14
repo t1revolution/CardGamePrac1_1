@@ -14,6 +14,7 @@ public class DropArea : MonoBehaviour, IDropHandler
             Debug.Log(gameObject.name + "に" + data.pointerDrag.name + "をドロップ");
             // vsでのバージョン管理を練習するための変更
             // vsでのバージョン管理を練習するための変更2
+            // vsでのバージョン管理を練習するための変更3
         }
     }
 }
